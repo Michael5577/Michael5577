@@ -10,7 +10,7 @@ Passionate about Distributed Systems • Cloud Infrastructure • Backend Engine
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Science Student at **Stetson University** (Class of 2027)
 - 💻 Former **Software Engineering Intern @ Uber** (Platform Engineering)
@@ -111,11 +111,7 @@ Developer productivity tool for tracking coding sessions and project activity.
 
 ---
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Michael5577&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
 
 ### ✍️ Developer Quote
 
