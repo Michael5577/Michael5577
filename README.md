@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Michael Serbeh</h1>
 
 <h3 align="center">
-Software Engineer | Former Uber SWE Intern | Computer Science @ Stetson University
+ Former Uber SWE Intern | Computer Science @ Stetson University
 </h3>
 
 <p align="center">
